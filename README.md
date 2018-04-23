@@ -9,3 +9,6 @@ My beloved adidas splash bot.
 Again, I'm not a good dev so if you cringe i'll laugh with you lol.
 
 - euph
+
+# Thanks
+- Simmy/Darron for node base & everything else node related.
