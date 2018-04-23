@@ -1,0 +1,51 @@
+{
+    "use_proxies" : false,
+    "use_captcha" : false,
+    "use_sensor"  : false,
+    "debug"       : false,
+    "emaildomains":[
+      "euph.co"
+    ],
+
+    "sensDB"    :"",
+    "capDB"     :"",
+
+
+    "oldAPI"      :true,
+
+
+    "tasks"       :1,
+  
+    "splash"  :{
+      "isSplash": true, 
+      "Pid" :["DB2908"],
+      "Size":[],
+      "Country" :"UK",
+      "splashURL" : "https://www.adidas.co.uk/yeezy-500/DB2908.html"
+    },
+  
+    "notificationAPI":{
+      "slack"     :{
+        "apiKey"  :"xoxb-",
+        "channel" :"poseidon-carts",
+        "botName" :"Poseidon"
+      },
+      "discord"   :{
+        "apiKey"  :"",
+        "botName" :""
+      }
+    },
+  
+    "sellAPI"     :{
+      "isChef"    :false,
+      "isCarhold" :true,
+      "chefConfig":{
+        "apikey"  :[
+          ""
+        ],
+        "price"   :[
+          ""
+        ]
+      }
+    }
+  }  
