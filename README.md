@@ -1,3 +1,5 @@
+# A BAD BOT FORKED FROM SOMEONE ELSE
+
 # Poseidon
 
 My beloved adidas splash bot. 
